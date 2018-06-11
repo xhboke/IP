@@ -5,3 +5,9 @@
 <a href="https://www.xhboke.com/wp-content/uploads/2018/05/20180526175459.png"><img src="https://www.xhboke.com/wp-content/uploads/2018/05/20180526175459.png" alt="" width="550" height="250" class="alignnone size-full wp-image-862" /></a>
 <h2>原帖地址</h2>
 https://www.xhboke.com/858.html
+<h2>修复</h2>
+<h3>6.11<h3>
+$url="http://ip.taobao.com/service/getIpInfo.php?ip=".$ip; 
+$country = $data['data']['country']; 
+$region = $data['data']['region']; 
+$city = $data['data']['city'];
