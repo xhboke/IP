@@ -7,7 +7,7 @@
 https://www.xhboke.com/858.html
 <h2>修复</h2>
 <h3>6.11<h3>
-$url="http://ip.taobao.com/service/getIpInfo.php?ip=".$ip; 
-$country = $data['data']['country']; 
-$region = $data['data']['region']; 
-$city = $data['data']['city'];
+$url="http://ip.taobao.com/service/getIpInfo.php?ip=".$ip; <br>
+$country = $data['data']['country']; <br>
+$region = $data['data']['region']; <br>
+$city = $data['data']['city'];<br>
