@@ -6,10 +6,9 @@
 <h2>原帖地址</h2>
 https://www.xhboke.com/858.html
 <h2>修复</h2>
-<h3>2019.7.16<h3>
-<p>修复并发量限制</p>
+<h3>2019.7.16<h3>修复并发量限制
 <h3>2018.6.11<h3>
-<p>$url="http://ip.taobao.com/service/getIpInfo.php?ip=".$ip; </p><br>
-<p>$country = $data['data']['country']; </p><br>
-<p>$region = $data['data']['region']; </p><br>
-<p>$city = $data['data']['city'];</p>
+$url="http://ip.taobao.com/service/getIpInfo.php?ip=".$ip; <br>
+$country = $data['data']['country']; <br>
+$region = $data['data']['region']; <br>
+$city = $data['data']['city'];
