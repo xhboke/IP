@@ -6,7 +6,9 @@
 <h2>原帖地址</h2>
 https://www.xhboke.com/858.html
 <h2>修复</h2>
-<h3>2019.7.16<h3>修复并发量限制
+<h3>2019.7.16<h3>
+  修复并发量限制
+  测试CentOS+PHP7.2
 <h3>2018.6.11<h3>
 $url="http://ip.taobao.com/service/getIpInfo.php?ip=".$ip; <br>
 $country = $data['data']['country']; <br>
