@@ -7,7 +7,7 @@ $weekarray=array("日","一","二","三","四","五","六"); //先定义一个�
 $get=$_GET["s"];
 $get=base64_decode(str_replace(" ","+",$get));
 //$wangzhi=$_SERVER['HTTP_REFERER'];这里获取当前网址
-$url='https://apa.me/mz/ip.php?ip='.$ip; 
+$url='https://xhboke.com/mz/ip.php?ip='.$ip; 
 $data = get_curl($url);
 $data = json_decode($data, true);
 $country = $data['site']['country']; 
