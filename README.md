@@ -7,8 +7,8 @@
 https://www.xhboke.com/858.html
 <h2>修复</h2>
 <h3>2020.04.22<h3>
-  时隔两年，新增天气
-  修复部分ua无法解析，引用：https://github.com/ua-parser/uap-php
+时隔两年，新增天气
+修复部分ua无法解析，引用：https://github.com/ua-parser/uap-php
 <h3>2019.7.16<h3>
   修复并发量限制
   测试CentOS+PHP7.2
