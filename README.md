@@ -9,6 +9,7 @@ https://www.xhboke.com/858.html
 <h3>2020.04.22<h3>
 时隔两年，新增天气
 修复部分ua无法解析，引用：https://github.com/ua-parser/uap-php
+效果：https://xhboke.com/news/?s=6L+Z5piv5ryU56S65pWI5p6c77yM6L+Z6YeM5paH5a2X5Y+v5Lul5pS55Y+Y
 <h3>2019.7.16<h3>
   修复并发量限制
   测试CentOS+PHP7.2
