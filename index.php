@@ -14,7 +14,7 @@ $result = $parser->parse($ua);
 $os = $result->os->toString(); // Mac OS X
 $browser = $result->device->family.'-'.$result->ua->family;// Safari 6.0.2 
 //地址、温度
-$data = json_decode(curl_get('https://xhboke.com/ip/ip.php?ip='.$ip), true);
+$data = json_decode(curl_get('https://api.xhboke.com/ip/ip.php?ip='.$ip), true);
 $country = $data['site']['country']; 
 $region = $data['site']['region']; 
 $adcode = $data['site']['adcode']; 
